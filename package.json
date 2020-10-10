@@ -1,6 +1,6 @@
 {
 	"name": "acme-dns-01-desec",
-	"version": "3.0.1",
+	"version": "3.0.0",
 	"description": "deSEC DNS for Let's Encrypt / ACME dns-01 challenges with ACME.js and Greenlock.js",
 	"main": "index.js",
 	"scripts": {
@@ -11,7 +11,7 @@
 		"url": "https://github.com/rs22/acme-dns-01-desec"
 	},
 	"keywords": [
-		"deSEC",
+		"desec",
 		"dns",
 		"dns-01",
 		"letsencrypt",
